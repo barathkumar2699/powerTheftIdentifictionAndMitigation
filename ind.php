@@ -6,6 +6,7 @@
  <!DOCTYPE html>  
  <html>  
       <head>  
+      <link rel="stylesheet" type="text/css" href="styles.css">
            <title>Power Theft Identification and Mitigation</title>  
            <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>  
            <script type="text/javascript">  
@@ -33,6 +34,11 @@
            </script>  
       </head>  
       <body>  
+      <ul>
+          <li><a href="ind2.php">Home</a></li>
+  <li><a href="ind.php">consumption</a></li>
+  <li><a href="main.html">theft</a></li>
+</ul>
            <br /><br />  
            <div style="width:900px;">  
                 <h3 align="center">Two Consumers Database</h3>  
